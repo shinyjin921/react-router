@@ -1,0 +1,2 @@
+*{margin:0;padding:0}a{color:inherit;text-decoration:none}#root{flex-direction:column;height:100vh}#root,nav{display:flex}nav{align-items:center;gap:1rem;justify-content:center;margin:2rem 0;a{border:1px solid #222;border-radius:1rem;display:block;padding:.5rem 1rem;transition:.3s;&:hover{background-color:#222;color:#fff}}}main{background-color:bisque;flex:1 1}footer{background-color:#222;color:#fff;padding:2rem;text-align:center}
+/*# sourceMappingURL=main.b9031df5.css.map*/
